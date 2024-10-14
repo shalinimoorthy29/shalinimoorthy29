@@ -21,13 +21,16 @@ Welcome to my GitHub portfolio. I'm a scientific professional with a PhD in canc
 - **Data Science Methodologies**: Exploration of various data science techniques, from data cleaning and preprocessing to statistical analysis and visualisation.
 
 ## 🔧 Languages and tools that I will be using:
+
 - **Programming Languages**: Python, R
 - **Libraries and Frameworks**:
     - **R**: dplyr, ggplot2, Bioconductor, DESeq2
     - **Python**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras
 - **IDEs**: Jupyter Notebook, RStudio
 
+## Let's connect!
+
 🤝 Please follow my GitHub profile for learning, teaching, knowledge sharing, and collaborating! I look forward to connecting with fellow enthusiasts and professionals in the field!
 
-📫 Reach me at [shalinimoorthy29@outlook.com](mailto:shalinimoorthy29@outlook.com)
+✉️ Email [shalinimoorthy29@outlook.com](mailto:shalinimoorthy29@outlook.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/shalini-sankar-1bb4bab5/) | [GitHub](https://github.com/shalinimoorthy29)
