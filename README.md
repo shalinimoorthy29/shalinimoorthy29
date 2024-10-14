@@ -23,8 +23,9 @@ Welcome to my GitHub portfolio. I'm a scientific professional with a PhD in canc
 ## 🔧 Languages and tools that I will be using:
 - **Programming Languages**: Python, R
 - **Libraries and Frameworks**:
-    - NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-- **Tools**: Jupyter Notebook, RStudio
+    - **R**: dplyr, ggplot2, Bioconductor, DESeq2
+    - **Python**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras
+- **IDEs**: Jupyter Notebook, RStudio
 
 🤝 Please follow my GitHub profile for learning, teaching, knowledge sharing, and collaborating! I look forward to connecting with fellow enthusiasts and professionals in the field!
 
