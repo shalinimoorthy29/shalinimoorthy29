@@ -6,8 +6,8 @@ Welcome to my GitHub portfolio. I'm a scientific professional with a PhD in canc
 
 ## 🛠️ Skills
 
-- R programming (dplyr, ggplot2)
-- Python programming (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- R 
+- Python 
 - SQL for storing and processing information in a relational database
 - Git version control
 - Jupyter environments & Anaconda distribution
@@ -18,11 +18,12 @@ Welcome to my GitHub portfolio. I'm a scientific professional with a PhD in canc
 
 - **RNA-Seq Analysis**: Comprehensive analysis of RNA-Seq data using tools such as DESeq2 and visualization techniques like PCA and heatmaps.
 - **Machine Learning Models**: Development of predictive models for cancer drug responses based on gene expression data, mutations, and drug properties.
-- **Data Science Methodologies**: Exploration of various data science techniques, from data cleaning and preprocessing to statistical analysis and visualization.
+- **Data Science Methodologies**: Exploration of various data science techniques, from data cleaning and preprocessing to statistical analysis and visualisation.
 
 ## 🔧 Languages and tools that I will be using:
 - **Programming Languages**: Python, R
-- **Libraries and Frameworks**: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras
+- **Libraries and Frameworks**:
+    - NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 - **Tools**: Jupyter Notebook, RStudio
 
 🤝 Please follow my GitHub profile for learning, teaching, knowledge sharing, and collaborating! I look forward to connecting with fellow enthusiasts and professionals in the field!
