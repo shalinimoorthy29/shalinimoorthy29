@@ -6,13 +6,13 @@ Welcome to my GitHub portfolio. I'm a scientific professional with a PhD in canc
 
 ## 🛠️ Skills
 
-• R programming (dplyr, ggplot2)
-• Python programming (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
-• SQL for storing and processing information in a relational database
-• Git version control
-• Jupyter environments & Anaconda distribution
-• Genomic data analysis 
-• Machine learning (Supervised and Unsupervised Learning)
+- R programming (dplyr, ggplot2)
+- Python programming (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- SQL for storing and processing information in a relational database
+- Git version control
+- Jupyter environments & Anaconda distribution
+- Genomic data analysis 
+- Machine learning (Supervised and Unsupervised Learning)
 
 ## 🔧 Techniques that I will be covering:
 
