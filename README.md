@@ -2,7 +2,9 @@
 
 ## 🙋🏽‍♀️ About Me
 
-Welcome to my GitHub portfolio. I'm a scientific professional with a PhD in Cancer Research, 2 years of postdoctoral research with a specialism in CRISPR gene editing and 3 years of oncology drug discovery experience in a world-leading CRO. This portfolio showcases my work and progress as I transition from a scientific research background into the field of data science. I hope to build a portfolio that spans diverse areas within data science, such as bioinformatics, computational biology, and machine learning.
+Welcome to my GitHub portfolio. I'm a scientific professional with a PhD in Cancer Research, 2 years of postdoctoral research with a specialism in CRISPR gene editing and 3 years of oncology drug discovery experience in a world-leading CRO. This portfolio showcases my work and progress as I transition from a scientific research background into the field of data science. I aim to build a diverse portfolio that spans various areas within data science, such as bioinformatics, computational biology, and machine learning, while maintaining a strong focus on applications within the life sciences.
+
+This expresses your intention to explore multiple domains while ensuring that your work remains centered on life sciences.
 
 ## 🛠️ Skills
 
