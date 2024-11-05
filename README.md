@@ -1,4 +1,4 @@
-# Hi there, I'm Dr. Shalini Sankar! 👋
+# Hi there! I'm Dr. Shalini Sankar 👋
 
 ## 🙋🏽‍♀️ About Me
 
