@@ -8,8 +8,6 @@ I am a scientific professional with a PhD in Cancer Research, two years of postd
 
 With a focus on real-world applications within the life sciences, particularly in drug discovery, my work here showcases projects that blend scientific insight with data-driven techniques. Each project reflects my commitment to leveraging computational methods to address key biological questions and drive advancements in therapeutics.
 
-Thank you for visiting; I hope you find these projects insightful.
-
 ## 🛠️ Skills
 
 - R 
