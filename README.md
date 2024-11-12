@@ -10,25 +10,25 @@ With a focus on real-world applications within the life sciences, particularly i
 
 ## 🛠️ Skills
 
-- R 
-- Python 
-- SQL for storing and processing information in a relational database
-- Git version control
-- Jupyter environments & Anaconda distribution
-- Genomic data analysis 
-- Machine learning (Supervised and Unsupervised Learning)
+**𝗖omputational Skills:** 
+- R Programming: Bioconductor, Tidyverse
+- Python Programming: Numpy, Pandas, Matplotlib, Seaborn
+- Machine Learning: Regression and classification (scikit-learn); deep learning and neural networks (TensorFlow, Keras)
+- Version Control: Git
+- Data Science Environments: Jupyter, Anaconda, Command Line
+- ELN/Compound Management: Dotmatics, Vortex, ChemInventory
+- Cloud Platforms: Benchling, Egnyte
+- SQL: Relational database management and processing
 
 ## 🔧 Techniques:
 
 - **RNASeq**: Comprehensive analysis of RNASeq data using Bioconductor packages such as DESeq2 and clusterProfiler.
 - **Machine Learning**: Development of predictive models for drug discovery using various online datasets and extracting information on bioactivity of drug-like compounds, gene expression data, mutations, etc.
 
-## 🔧 Languages and tools:
+## 💻 Languages and Interfaces:
 
 - **Programming Languages**: Python, R
-- **Libraries and Frameworks**:
-    - **R**: dplyr, ggplot2, Bioconductor
-    - **Python**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras
+
 - **IDEs**: Jupyter Notebook, RStudio
 
 ## Let's connect!
