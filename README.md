@@ -18,7 +18,7 @@ With a focus on real-world applications within the life sciences, particularly i
 - Genomic data analysis 
 - Machine learning (Supervised and Unsupervised Learning)
 
-## 🔧 Techniques that I will be covering:
+## 🔧 Techniques:
 
 - **RNASeq**: Comprehensive analysis of RNASeq data using Bioconductor packages such as DESeq2 and clusterProfiler.
 - **Machine Learning**: Development of predictive models for drug discovery using various online datasets and extracting information on bioactivity of drug-like compounds, gene expression data, mutations, etc.
