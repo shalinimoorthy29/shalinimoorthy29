@@ -10,7 +10,6 @@ With a focus on real-world applications within the life sciences, particularly i
 
 ## 🛠️ Skills
 
-**𝗖omputational Skills:** 
 - R Programming: Bioconductor, Tidyverse
 - Python Programming: Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Regression and classification (scikit-learn); deep learning and neural networks (TensorFlow, Keras)
