@@ -23,7 +23,7 @@ With a focus on real-world applications within the life sciences, particularly i
 - **RNASeq**: Comprehensive analysis of RNASeq data using Bioconductor packages such as DESeq2 and clusterProfiler.
 - **Machine Learning**: Development of predictive models for drug discovery using various online datasets and extracting information on bioactivity of drug-like compounds, gene expression data, mutations, etc.
 
-## 🔧 Languages and tools that I will be using:
+## 🔧 Languages and tools:
 
 - **Programming Languages**: Python, R
 - **Libraries and Frameworks**:
