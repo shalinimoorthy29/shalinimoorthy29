@@ -26,7 +26,7 @@ With a focus on real-world applications within the life sciences, particularly i
 
 ## 💻 Languages and Interfaces:
 
-- **Programming Languages**:
+- **Programming Languages and Versions**:
 
   ![Python](https://img.shields.io/badge/python-3.13-blue.svg) ![R](https://img.shields.io/badge/R-4.4.1--win-blue.svg) ![RStudio](https://img.shields.io/badge/RStudio-2024.09.1%2B394-blue.svg)
 
