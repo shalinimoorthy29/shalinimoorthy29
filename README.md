@@ -30,7 +30,12 @@ With a focus on real-world applications within the life sciences, particularly i
 
   ![Python](https://img.shields.io/badge/python-3.13-blue.svg) ![R](https://img.shields.io/badge/R-4.4.1--win-blue.svg) ![RStudio](https://img.shields.io/badge/RStudio-2024.09.1%2B394-blue.svg)
 
-- **IDEs**: Jupyter Notebook, Anaconda, RStudio, Command Line
+- **IDEs**:
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg) 
+  ![Anaconda](https://img.shields.io/badge/Anaconda-2024-green.svg) 
+  ![RStudio](https://img.shields.io/badge/RStudio-2024.09.1%2B394-blue.svg) 
+  ![Command Line](https://img.shields.io/badge/Command-Line-black.svg)
+
 
 ## Let's connect!
 
