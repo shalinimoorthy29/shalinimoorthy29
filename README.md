@@ -21,9 +21,10 @@ With a focus on real-world applications within the life sciences, particularly i
 
 ## 🔧 Techniques:
 
-- **RNASeq**: Comprehensive analysis of RNASeq data using Bioconductor packages such as DESeq2 and clusterProfiler.
-- **Machine Learning**: Development of predictive models for drug discovery using various online datasets and extracting information on bioactivity of drug-like compounds, gene expression data, mutations, etc.
-
+- **Computational Biology**: Comprehensive analysis of RNASeq data using Bioconductor packages such as DESeq2 and clusterProfiler.
+- **Machine Learning**: Development of predictive models for drug discovery using various publicly available datasets and extracting information on bioactivity of drug-like compounds, gene expression data, mutations, etc.
+- **Data Batch Processing and Automation**: Building automated methods for batch processing multiple datasets using Python and Command Line.
+  
 ## 💻 Languages and Interfaces:
 
 - **Programming Languages and Versions**:
