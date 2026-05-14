@@ -4,7 +4,7 @@
 
 Welcome to My GitHub Portfolio.
 
-I am a scientific professional with a PhD in Cancer Research, 2 years of postdoctoral research specialising in CRISPR gene editing, and 3 years of oncology drug discovery experience at a world-leading CRO. As I transition from the wet lab to the data science, analytics and project management, this portfolio represents my journey and development across various domains, including bioinformatics, computational biology, and machine learning.
+I am a scientific professional with a PhD in Cancer Research, 2 years of postdoctoral research specialising in CRISPR gene editing, and 3 years of oncology drug discovery experience at a world-leading CRO. As I transition from the wet lab to data science, analytics and project management, this portfolio represents my journey and development across various domains, including bioinformatics, computational biology, and machine learning.
 
 This GitHub showcases practical, reproducible projects where I apply data analytics and computational methods to real-world life sciences and healthcare questions — from bioinformatics workflows to applied machine learning and data reporting. I focus on clean, well-documented code and outputs that are easy to follow and re-use.
 
