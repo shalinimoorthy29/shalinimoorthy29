@@ -41,4 +41,4 @@ This GitHub showcases practical, reproducible projects where I apply data analyt
 ✉️ Email [shalinimoorthy29@outlook.com](mailto:shalinimoorthy29@outlook.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/shalini-sankar-1bb4bab5/) | [GitHub](https://github.com/shalinimoorthy29)
 
-Thank you for visiting, and I hope you find these projects insightful.
+Thank you for visiting, and I hope you find these projects insightful
